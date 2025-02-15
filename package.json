@@ -10,7 +10,9 @@
   "author": "Scott Scharl",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
-  },
-  "type": "module"
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "geocodio-library-node": "^1.6.1",
+    "node-cron": "^3.0.3"
+  }
 }
